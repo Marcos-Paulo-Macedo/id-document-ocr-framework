@@ -1,0 +1,8 @@
+{
+    "CNH_Frente": 0,
+    "CNH_Verso": 1,
+    "CNH_Aberta": 2,
+    "RG_Frente": 3,
+    "RG_Verso": 4,
+    "RG_Aberto": 5
+} 
